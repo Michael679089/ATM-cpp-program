@@ -1,0 +1,3 @@
+﻿  ATM Machine Progam.cpp
+C:\Users\User\source\repos\ATM Machine Progam\ATM Machine Progam\ATM Machine Progam.cpp(28,6): warning C4101: 'maxAmount': unreferenced local variable
+  ATM Machine Progam.vcxproj -> C:\Users\User\source\repos\ATM Machine Progam\Debug\ATM Machine Progam.exe
